@@ -1,0 +1,18 @@
+body { background-image: url(https://image.freepik.com/vetores-gratis/fundo-de-unicornio-holografico_56745-41.jpg);
+    background-size: auto 100vh;
+    Font-family: Times;
+    height: 100vh;
+    }
+
+    .menu {
+        background-color: darkmagenta;
+    }
+
+    .menu ul {
+        display: flexbox;
+        font-display: Times;
+    }
+
+    .menu li {
+        list-style: none;
+    }
